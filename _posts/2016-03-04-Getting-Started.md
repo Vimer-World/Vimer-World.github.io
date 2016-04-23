@@ -1,7 +1,7 @@
 ---
 layout: post_layout
 title: Hello Vimer
-time: 2016年04月23日 星期五
+time: 2016.04.23
 location: China
 pulished: true
 excerpt_separator: "```"
