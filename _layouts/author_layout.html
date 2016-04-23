@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+
+  <link rel="stylesheet" href="{{ "/assets/css/icard_resume.css" | prepend: site.baseurl }}">
+  {% include head.html %}
+  <body>
+
+    {% include author_header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+
+</html>

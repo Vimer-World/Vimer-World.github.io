@@ -1,0 +1,27 @@
+# Author settings
+name: Vimer-World
+title: 你所想不到的vim世界
+address: 一群热爱vim，却又懂得生活的人
+email: vimerworld@yeah.net
+github: Vimer-World
+gavatar: /assets/img/avatar.JPG
+
+programmingSkills:
+- Java:
+  name: Java/Android
+  percentage: 90%
+- Bash:
+  name: Bash Shell
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 70%
+- PHP:
+  name: PHP
+  percentage: 30%
+- Python:
+  name: Python
+  percentage: 30%
+- Kotlin:
+  name: Kotlin
+  percentage: 70%
